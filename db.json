@@ -1,9 +1,19 @@
 {
-    "posts":[
-        {
-           "id":1,
-           "title":"blog 1",
-           "content":"this is post 1"
-        }
-    ]
+  "posts": [
+    {
+      "id": "1",
+      "title": "blog 1",
+      "content": "this is post 1"
+    },
+    {
+      "id": "a636",
+      "title": "blog2",
+      "content": "this is post2"
+    },
+    {
+      "id": "c18f",
+      "title": "post3",
+      "content": "this is post3"
+    }
+  ]
 }
